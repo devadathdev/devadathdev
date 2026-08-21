@@ -1,69 +1,84 @@
-# Hi there, I'm Devadath 👋
+<div align="center">
 
-> **AI Engineer & Systems Developer**  
-> Architecting Autonomous Agents, Applied Machine Learning, Security Systems, and Core Developer Infrastructure.
+# Devadath S.
+### AI Systems & Security Engineer
 
-<p align="left">
-  <a href="https://github.com/devadathdev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://x.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+Architecting autonomous agent workflows, dense information retrieval pipelines (RAG), and developer infrastructure.
+
+[GitHub](https://github.com/devadathdev) • [LinkedIn](https://linkedin.com/in/your-username) • [Email](mailto:your-email@example.com)
 
 ---
 
-### 🚀 Featured Repositories
+</div>
 
-| Repository | Domain | Stack & Core Focus |
-| :--- | :--- | :--- |
-| **[aura-assistant](https://github.com/devadathdev/aura-assistant)** | **Agentic AI** | `Python` `FastAPI` `WebSockets` `Automation`<br>Modular AI command-center interface executing tool-calling loops, multi-turn state memory, and background system orchestration. |
-| **[soul-ai](https://github.com/devadathdev/soul-ai)** | **Cognitive Systems** | `Python` `LLM Architectures` `Reasoning`<br>Advanced conversational reasoning engine exploring autonomous persona modeling, memory structures, and structured cognition. |
-| **[cybersec-ai](https://github.com/devadathdev/cybersec-ai)** | **Security AI** | `Python` `SecOps` `CVE Intelligence`<br>Context-driven security reasoning engine analyzing attack surfaces, deconstructing obfuscated payloads, and generating patch scripts. |
-| **[xenon](https://github.com/devadathdev/xenon)** | **Core Systems** | `Python / Systems` `Architecture` `Low-Latency`<br>High-performance core engine designed for streamlined execution, modular task management, and structured data handling. |
-| **[FORGE](https://github.com/devadathdev/FORGE)** | **DevOps & Tooling** | `Bash` `Docker` `CLI Architecture` `Linux`<br>Developer automation framework and CLI engine for rapid environment provisioning, build optimization, and isolated runtimes. |
-| **[rag](https://github.com/devadathdev/rag)** | **Information Retrieval** | `Python` `Vector Search` `Embeddings` `RAG`<br>High-precision Retrieval-Augmented Generation pipeline engineered for dense document indexing, semantic retrieval, and low-hallucination inference. |
-| **[chatbot](https://github.com/devadathdev/chatbot)** | **Conversational UI** | `Python / JS` `NLP` `API Integration`<br>Lightweight conversational interface and dialogue workflow engine built for rapid deployment and domain-specific interaction. |
+### 📌 Core Architectures & Repositories
 
----
+#### [aura-assistant](https://github.com/devadathdev/aura-assistant)
+`Python` • `FastAPI` • `WebSockets` • `Agentic Workflows`
+* Asynchronous command orchestration engine featuring dynamic tool-calling loops and multi-turn state management.
+* Low-latency bidirectional WebSocket interface designed for real-time telemetry streaming and environment automation.
 
-### 🛠️ Technical Arsenal
+#### [rag](https://github.com/devadathdev/rag)
+`Python` • `Vector Databases` • `Embeddings` • `Information Retrieval`
+* Production-oriented Retrieval-Augmented Generation pipeline built for dense document indexing and hybrid search.
+* Minimizes context window degradation and hallucination rates via semantic chunking and dynamic reranking.
 
-**AI, Machine Learning & IR**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+#### [cybersec-ai](https://github.com/devadathdev/cybersec-ai)
+`Python` • `Threat Modeling` • `CVE Analysis` • `SecOps`
+* Security reasoning engine designed to parse raw scan outputs, assess vulnerability vectors, and generate contextual mitigation scripts.
+* Automated deconstruction of malicious payloads and structural logic flaws across diverse codebases.
 
-**Systems, DevOps & Environments**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+#### [soul-ai](https://github.com/devadathdev/soul-ai)
+`Python` • `LLM Architecture` • `Stateful Reasoning`
+* Cognitive dialogue framework exploring dynamic long-term memory retrieval, persona coherence, and multi-agent coordination.
 
-**Web & Interfaces**  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+#### [xenon](https://github.com/devadathdev/xenon)
+`Python` • `Systems Architecture` • `Runtime Optimization`
+* Modular, low-overhead execution runtime optimized for high-throughput data pipelines and system-level task management.
+
+#### [FORGE](https://github.com/devadathdev/FORGE)
+`Bash` • `Linux` • `Docker` • `Developer Tooling`
+* Extensible developer CLI and automation engine for isolated workspace scaffolding, build pipeline optimization, and reproducible environment configurations.
+
+#### [chatbot](https://github.com/devadathdev/chatbot)
+`Python` • `NLP` • `REST APIs`
+* Modular conversational interface engineered for pluggable LLM inference backends and structured schema validation.
 
 ---
 
-### 📊 GitHub Activity
+### 🛠 Technical Competencies
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devadath's GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white)
+
+**AI & Systems Architecture**  
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Infrastructure & Operating Systems**  
+![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-000000?style=flat-square&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=white)
+
+**Web & Interface Layer**  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+
+---
+
+### ⚙ Engineering Standards
+
+* **Deterministic Inference:** Enforcing strict schema outputs, validation guards, and domain constraints on probabilistic models.
+* **Minimalist Architecture:** Prioritizing low-latency execution paths and lightweight dependencies over bloated frameworks.
+* **Security by Design:** Embedding automated vulnerability detection, token checks, and environment isolation directly into active workflows.

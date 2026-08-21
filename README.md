@@ -1,84 +1,56 @@
-<div align="center">
-
 # Devadath S.
-### AI Systems & Security Engineer
 
-Architecting autonomous agent workflows, dense information retrieval pipelines (RAG), and developer infrastructure.
+**AI & Systems Engineer** &nbsp;|&nbsp; Autonomous Systems &bull; Information Retrieval &bull; Security Infrastructure
 
-[GitHub](https://github.com/devadathdev) • [LinkedIn](https://www.linkedin.com/in/devadath-s-091b55363?utm_source=share_via&utm_content=profile&utm_medium=member_android) • [Email](devadathdevan2008@gmail.com)
-
----
-
-</div>
-
-### 📌 Core Architectures & Repositories
-
-#### [aura-assistant](https://github.com/devadathdev/aura-assistant)
-`Python` • `FastAPI` • `WebSockets` • `Agentic Workflows`
-* Asynchronous command orchestration engine featuring dynamic tool-calling loops and multi-turn state management.
-* Low-latency bidirectional WebSocket interface designed for real-time telemetry streaming and environment automation.
-
-#### [rag](https://github.com/devadathdev/rag)
-`Python` • `Vector Databases` • `Embeddings` • `Information Retrieval`
-* Production-oriented Retrieval-Augmented Generation pipeline built for dense document indexing and hybrid search.
-* Minimizes context window degradation and hallucination rates via semantic chunking and dynamic reranking.
-
-#### [cybersec-ai](https://github.com/devadathdev/cybersec-ai)
-`Python` • `Threat Modeling` • `CVE Analysis` • `SecOps`
-* Security reasoning engine designed to parse raw scan outputs, assess vulnerability vectors, and generate contextual mitigation scripts.
-* Automated deconstruction of malicious payloads and structural logic flaws across diverse codebases.
-
-#### [soul-ai](https://github.com/devadathdev/soul-ai)
-`Python` • `LLM Architecture` • `Stateful Reasoning`
-* Cognitive dialogue framework exploring dynamic long-term memory retrieval, persona coherence, and multi-agent coordination.
-
-#### [xenon](https://github.com/devadathdev/xenon)
-`Python` • `Systems Architecture` • `Runtime Optimization`
-* Modular, low-overhead execution runtime optimized for high-throughput data pipelines and system-level task management.
-
-#### [FORGE](https://github.com/devadathdev/FORGE)
-`Bash` • `Linux` • `Docker` • `Developer Tooling`
-* Extensible developer CLI and automation engine for isolated workspace scaffolding, build pipeline optimization, and reproducible environment configurations.
-
-#### [chatbot](https://github.com/devadathdev/chatbot)
-`Python` • `NLP` • `REST APIs`
-* Modular conversational interface engineered for pluggable LLM inference backends and structured schema validation.
+[GitHub](https://github.com/devadathdev) &bull; [LinkedIn](https://www.linkedin.com/in/devadath-s-091b55363) &bull; [Email](mailto:devadathdevan2008@gmail.com)
 
 ---
 
-### 🛠 Technical Competencies
+### Selected Systems & Architectures
 
-**Languages & Core**  
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-000000?style=flat-square&logo=gnu-bash&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=sqlite&logoColor=white)
+#### **Agentic & Cognitive Systems**
 
-**AI & Systems Architecture**  
-![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=flat-square&logo=huggingface&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white)
+* **[aura-assistant](https://github.com/devadathdev/aura-assistant)** — Asynchronous agent runtime featuring dynamic tool execution, persistent conversational state, and a full-duplex WebSocket layer for low-latency telemetry streaming.  
+  `Python` &bull; `FastAPI` &bull; `WebSockets` &bull; `Agentic Systems`
 
-**Infrastructure & Operating Systems**  
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-000000?style=flat-square&logo=debian&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-000000?style=flat-square&logo=arch-linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=github-actions&logoColor=white)
+* **[soul-ai](https://github.com/devadathdev/soul-ai)** — State-aware cognitive dialogue engine exploring structured memory retrieval, deterministic personality constraints, and multi-agent coordination pipelines.  
+  `Python` &bull; `Stateful Systems` &bull; `LLM Architecture`
 
-**Web & Interface Layer**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+* **[chatbot](https://github.com/devadathdev/chatbot)** — Schema-validated dialogue service with modular backend adapters for seamless switching between local and hosted inference endpoints.  
+  `Python` &bull; `REST APIs` &bull; `Schema Validation`
+
+#### **Retrieval & Applied Security**
+
+* **[rag](https://github.com/devadathdev/rag)** — Production-grade Retrieval-Augmented Generation pipeline featuring semantic chunking, dense vector indexing, and cross-encoder reranking to minimize context degradation and hallucination rates.  
+  `Python` &bull; `Vector DBs` &bull; `Dense Retrieval` &bull; `Embeddings`
+
+* **[cybersec-ai](https://github.com/devadathdev/cybersec-ai)** — Security intelligence engine for vulnerability assessment, log deconstruction, attack surface analysis, and automated remediation script generation.  
+  `Python` &bull; `SecOps` &bull; `CVE Intelligence` &bull; `Static Analysis`
+
+#### **Core Infrastructure & Tooling**
+
+* **[FORGE](https://github.com/devadathdev/FORGE)** — Modular developer CLI and provisioning framework for automated environment isolation, dependency injection, and reproducible workspace builds.  
+  `Bash` &bull; `Docker` &bull; `Linux Internals` &bull; `CLI Architecture`
+
+* **[xenon](https://github.com/devadathdev/xenon)** — Lightweight execution engine optimized for asynchronous task orchestration, high-throughput data processing, and minimal runtime overhead.  
+  `Python` &bull; `Runtime Optimization` &bull; `Systems Architecture`
 
 ---
 
-### ⚙ Engineering Standards
+### Technical Index
 
-* **Deterministic Inference:** Enforcing strict schema outputs, validation guards, and domain constraints on probabilistic models.
-* **Minimalist Architecture:** Prioritizing low-latency execution paths and lightweight dependencies over bloated frameworks.
-* **Security by Design:** Embedding automated vulnerability detection, token checks, and environment isolation directly into active workflows.
+| Layer | Technologies & Paradigms |
+| :--- | :--- |
+| **Languages** | Python, Bash/POSIX Shell, TypeScript, JavaScript, SQL |
+| **AI / Machine Learning** | RAG Architectures, Vector Embeddings, Semantic Reranking, Agentic Tool Routing |
+| **Backend & Protocols** | FastAPI, WebSockets, REST APIs, Asynchronous I/O |
+| **Infrastructure & OS** | Linux (Debian, Arch, Ubuntu), Docker, Git, GitHub Actions (CI/CD Pipelines) |
+| **Frontend** | Next.js, React, Tailwind CSS |
+
+---
+
+### Architectural Principles
+
+* **Deterministic Interfaces:** Enforcing rigid schema validation and safety bounds over non-deterministic model outputs.
+* **Zero-Bloat Footprints:** Architecting modular, low-latency runtimes that avoid heavy runtime dependencies.
+* **Automated Security:** Embedding continuous vulnerability assessments and environment isolation directly into core workflows.

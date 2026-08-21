@@ -5,7 +5,7 @@
 
 Architecting autonomous agent workflows, dense information retrieval pipelines (RAG), and developer infrastructure.
 
-[GitHub](https://github.com/devadathdev) • [LinkedIn](https://linkedin.com/in/your-username) • [Email](mailto:your-email@example.com)
+[GitHub](https://github.com/devadathdev) • [LinkedIn](https://linkedin.com/in/your-username) • [Email](mailto: devadathdevan2008@gmail.com)
 
 ---
 

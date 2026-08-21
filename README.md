@@ -1,73 +1,69 @@
-# 🚀 Devadath S
-**AI Systems Builder | Full-Stack Developer | Startup Founder**
+# Hi there, I'm Devadath 👋
 
-> ⚡ *"Execution beats ideas. Systems beat motivation. Proof beats talk."*
+> **AI Engineer & Systems Developer**  
+> Architecting Autonomous Agents, Applied Machine Learning, Security Systems, and Core Developer Infrastructure.
 
-I build high-impact digital systems, local AI infrastructure, and scalable platforms built for real-world execution.
-
----
-
-### 🧠 Profile & Current Focus
-
-* 🤖 **Jarvis & Agentic Ecosystems:** Building localized, multi-functional AI assistants, smart task orchestration engines, and context-aware RAG pipelines.
-* ⚙️ **Mobile & Local Infra:** Configuring low-latency, containerized Linux environments (Debian, Alpine, Kali via Termux/Proot) for portable execution.
-* 🧪 **Advanced Tech & Materials:** Developing digital platforms and web infrastructure for the **AD CARBONS** initiative.
-* 📍 **Location:** India
-
----
-
-### 🧩 Flagship Repositories & Projects
-
-#### 🤖 Jarvis AI & `rag` Engine *(Core Assistant Ecosystem)*
-> *A local-first, multi-functional AI framework serving as a personal worker and development automation hub.*
-* **Tech:** Python, Ollama, Gemini API, Vector DBs, Shell
-* **Highlights:** Advanced Local/API LLM Integration | Retrieval-Augmented Generation (RAG) | Custom Voice + CLI Systems | Task Automation Engine
-
-#### 🔮 `aura-assistant` *(AI Research & Tools)*
-> *An exploration into responsive AI agent architectures, intent routing, and real-time dashboard systems.*
-* **Tech:** TypeScript, Python, LLM APIs
-* **Highlights:** Smart Intent Routing | AI-Driven Dashboard Systems | Dynamic Prompt Frameworks
-
-#### 💼 `Bizstart` *(Startup Infrastructure)*
-> *Automated tooling and digital backend infrastructure designed to streamline early-stage business execution and micro-enterprise onboarding.*
-* **Tech:** Node.js, Firebase, Supabase, Webhooks
-* **Highlights:** Automated Business Setup Tools | Scalable Micro-Service Backend Components
-
-#### 🌐 AD CARBONS *(Brand & Web Platform)*
-> *The web infrastructure, platform architecture, and digital footprint for an advanced carbon materials brand initiative.*
-* **Tech:** React, Next.js, Tailwind CSS, Netlify
-* **Highlights:** High-Performance Netlify Deployment | Modern Web Frameworks | Interactive Brand Touchpoints
-
-#### ⚙️ Termux-X11 & Mobile Linux Labs *(Infrastructure)*
-> *Custom, portable development environments running containerized Linux distros (Debian, Alpine, Kali) directly from a mobile terminal.*
-* **Tech:** Bash / Shell, Termux, X11, Debian / Alpine / Kali
-* **Highlights:** X11 Graphical Emulation | Secure SSH Key Architecture | Low-Level Scripting & Automation Shells
+<p align="left">
+  <a href="https://github.com/devadathdev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tooling
-Languages     : JavaScript, TypeScript, Python, Bash / Shell
-Frontend      : React, Next.js, Tailwind CSS, HTML5/CSS3
-Backend/Cloud : Node.js, Firebase, Supabase, Netlify
-AI & Data     : Ollama (Local LLMs), OpenAI APIs, Gemini API, RAG, Cursor
-Environments  : Linux (Debian, Arch, Kali), Termux / Termux-X11, Git / GitHub
----
+### 🚀 Featured Repositories
 
-### 📈 2026 Focus & Milestones
-
-* [ ] **Self-Hosted Intelligence:** Deploy a fully autonomous, local-first Jarvis AI system with persistent RAG memory.
-* [ ] **Agent Orchestration:** Expand multi-agent decision routing inside the **Aura Assistant** ecosystem.
-* [ ] **Brand Infrastructure:** Scale web deployment and platform features for **AD CARBONS**.
-* [ ] **Product Execution:** Ship and scale production-ready, revenue-generating digital software.
+| Repository | Domain | Stack & Core Focus |
+| :--- | :--- | :--- |
+| **[aura-assistant](https://github.com/devadathdev/aura-assistant)** | **Agentic AI** | `Python` `FastAPI` `WebSockets` `Automation`<br>Modular AI command-center interface executing tool-calling loops, multi-turn state memory, and background system orchestration. |
+| **[soul-ai](https://github.com/devadathdev/soul-ai)** | **Cognitive Systems** | `Python` `LLM Architectures` `Reasoning`<br>Advanced conversational reasoning engine exploring autonomous persona modeling, memory structures, and structured cognition. |
+| **[cybersec-ai](https://github.com/devadathdev/cybersec-ai)** | **Security AI** | `Python` `SecOps` `CVE Intelligence`<br>Context-driven security reasoning engine analyzing attack surfaces, deconstructing obfuscated payloads, and generating patch scripts. |
+| **[xenon](https://github.com/devadathdev/xenon)** | **Core Systems** | `Python / Systems` `Architecture` `Low-Latency`<br>High-performance core engine designed for streamlined execution, modular task management, and structured data handling. |
+| **[FORGE](https://github.com/devadathdev/FORGE)** | **DevOps & Tooling** | `Bash` `Docker` `CLI Architecture` `Linux`<br>Developer automation framework and CLI engine for rapid environment provisioning, build optimization, and isolated runtimes. |
+| **[rag](https://github.com/devadathdev/rag)** | **Information Retrieval** | `Python` `Vector Search` `Embeddings` `RAG`<br>High-precision Retrieval-Augmented Generation pipeline engineered for dense document indexing, semantic retrieval, and low-hallucination inference. |
+| **[chatbot](https://github.com/devadathdev/chatbot)** | **Conversational UI** | `Python / JS` `NLP` `API Integration`<br>Lightweight conversational interface and dialogue workflow engine built for rapid deployment and domain-specific interaction. |
 
 ---
 
-### 📫 Connect & Collaborate
+### 🛠️ Technical Arsenal
 
-* 🌐 **GitHub:** [@devadathdev](https://github.com/devadathdev)
+**AI, Machine Learning & IR**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Systems, DevOps & Environments**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Web & Interfaces**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <sub>🔥 <i>Building systems that scale, run locally, and deliver real impact.</i></sub>
+  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Devadath's GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>

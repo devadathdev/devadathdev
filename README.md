@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DEVADATH%20S.&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20AGENTS%20%7C%20SYSTEMS%20%7C%20SECURITY&descAlignY=55&animation=fadeIn" alt="Devadath S." />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=DEVADATH%20S.%20%2F%2F%20AI%20SYSTEMS&fontSize=38&fontColor=2EE6C5&color=0D1117&stroke=2EE6C5&strokeWidth=1&animation=fadeIn&desc=AGENT%20RUNTIMES%20%E2%80%A2%20LLM%20INFRASTRUCTURE%20%E2%80%A2%20RETRIEVAL%20%E2%80%A2%20SECURITY&descSize=14&descAlignY=68" alt="DEVADATH S. // AI SYSTEMS" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=2EE6C5&center=true&vCenter=true&width=850&lines=AGENT+ORCHESTRATION+%2F%2F+TOOL+EXECUTION;RETRIEVAL+%2F%2F+MEMORY+%2F%2F+CONTEXT+ENGINEERING;SECURITY+%2F%2F+SANDBOXING+%2F%2F+VERIFICATION;SYSTEMS+%2F%2F+AUTOMATION+%2F%2F+REAL-TIME+INFRASTRUCTURE" alt="Technical focus" />
 </p>
 
 # DEVADATH S. // AI SYSTEMS ENGINEER

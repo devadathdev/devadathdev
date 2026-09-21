@@ -1,14 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=190&text=DEVADATH%20S.%20%2F%2F%20AI%20SYSTEMS&fontSize=38&fontColor=2EE6C5&color=0D1117&stroke=2EE6C5&strokeWidth=1&animation=fadeIn&desc=AGENT%20RUNTIMES%20%E2%80%A2%20LLM%20INFRASTRUCTURE%20%E2%80%A2%20RETRIEVAL%20%E2%80%A2%20SECURITY&descSize=14&descAlignY=68" alt="DEVADATH S. // AI SYSTEMS" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=DEVADATH%20S.%20%2F%2F%20AI%20SYSTEMS&fontSize=42&fontColor=E6EDF3&fontAlignY=42&color=0B1017&stroke=2EE6C5&strokeWidth=2&animation=fadeIn&desc=AGENTIC%20AI%20%E2%80%A2%20LLM%20INFRASTRUCTURE%20%E2%80%A2%20AUTONOMOUS%20SYSTEMS&descSize=15&descColor=2EE6C5&descAlignY=63" alt="DEVADATH S. // AI SYSTEMS" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=2600&pause=900&color=2EE6C5&center=true&vCenter=true&width=850&lines=AGENT+ORCHESTRATION+%2F%2F+TOOL+EXECUTION;RETRIEVAL+%2F%2F+MEMORY+%2F%2F+CONTEXT+ENGINEERING;SECURITY+%2F%2F+SANDBOXING+%2F%2F+VERIFICATION;SYSTEMS+%2F%2F+AUTOMATION+%2F%2F+REAL-TIME+INFRASTRUCTURE" alt="Technical focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=2EE6C5&center=true&vCenter=true&width=900&height=55&lines=BUILDING+SYSTEMS+THAT+REASON+%E2%86%92+EXECUTE+%E2%86%92+VERIFY;AGENTS+%2F%2F+TOOLS+%2F%2F+MEMORY+%2F%2F+RETRIEVAL;SECURITY+%2F%2F+SANDBOXING+%2F%2F+VERIFICATION;AI+INFRASTRUCTURE+%2F%2F+REAL-TIME+AUTOMATION" alt="Technical systems focus" />
 </p>
-
-# DEVADATH S. // AI SYSTEMS ENGINEER
-
-<p align="center"><b>Engineering intelligent systems that can reason, retrieve, execute, verify, and operate.</b><br/><sub>AI Engineering • Agent Orchestration • Retrieval Systems • Cybersecurity • Distributed Runtime Design</sub></p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Agentic%20AI-2ea44f?style=flat-square" />

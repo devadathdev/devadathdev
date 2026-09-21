@@ -215,17 +215,49 @@ RESEARCH          █████████████████░░░  
 ```
 
 <p align="center"><sub>Design systems. Build infrastructure. Make intelligence executable.</sub></p>
----
 
-## `08` — GITHUB ACTIVITY
+## `08` — SYSTEM TELEMETRY // GITHUB ACTIVITY
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github"
+    height="180"
+    alt="GitHub system statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9"
+    height="180"
+    alt="Repository language distribution"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadathdev&hide_border=true&theme=transparent" alt="GitHub streak"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=2EE6C5&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E"
+    alt="GitHub contribution telemetry"
+  />
+</p>
+
+### Repository Telemetry
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                     GITHUB / TELEMETRY                       │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  CODE        ████████████████████    ACTIVE                  │
+│  SYSTEMS     ███████████████████     ACTIVE                  │
+│  AI          ████████████████████    ACTIVE                  │
+│  SECURITY    █████████████████       ACTIVE                  │
+│  RESEARCH    ███████████████████     ACTIVE                  │
+│                                                              │
+│  MODE        BUILD / TEST / MEASURE / ITERATE                │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
+
+<p align="center">
+  <sub>Repository activity reflects ongoing experiments, system development, and engineering iteration.</sub>
 </p>
 
 ## `09` — AUTONOMOUS SYSTEMS ROADMAP

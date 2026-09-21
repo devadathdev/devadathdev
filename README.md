@@ -219,12 +219,12 @@ RESEARCH          █████████████████░░░  
 ## `08` — GITHUB // ENGINEERING TELEMETRY
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github" height="180" alt="GitHub engineering statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9" height="180" alt="Repository language distribution" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub engineering statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&cache_seconds=86400" height="180" alt="Repository language distribution" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=FFB020&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=FFB020&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
@@ -237,15 +237,11 @@ RESEARCH          █████████████████░░░  
 ┌────────────────────────────────────────────────────────────────────┐
 │ DEVADATH S. // ENGINEERING TELEMETRY                              │
 ├────────────────────────────────────────────────────────────────────┤
-│                                                                    │
 │  SOURCE CONTROL     Git / GitHub                                   │
 │  PRIMARY MODE       BUILD → TEST → DEBUG → SHIP                    │
 │  SYSTEM FOCUS       AI / AGENTS / RETRIEVAL / SECURITY             │
 │  DEVELOPMENT        FULL-STACK + BACKEND + INFRASTRUCTURE          │
 │  ITERATION          CONTINUOUS EXPERIMENTATION                     │
-│                                                                    │
-│  SIGNALS            COMMITS • REPOSITORIES • LANGUAGES • STREAKS    │
-│                                                                    │
 └────────────────────────────────────────────────────────────────────┘
 ```
 

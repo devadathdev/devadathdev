@@ -1,6 +1,17 @@
-# DEVADATH S. // AI & SYSTEMS ENGINEER
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=DEVADATH%20S.&fontAlign=50&fontAlignY=35&desc=AI%20%7C%20AGENTS%20%7C%20SYSTEMS%20%7C%20SECURITY&descAlignY=55&animation=fadeIn" alt="Devadath S." />
+</p>
 
-<p align="center"><b>Building autonomous software systems, agentic AI infrastructure, and intelligent developer tooling.</b><br/><sub>AI Engineering • Agent Orchestration • Retrieval Systems • Cybersecurity • Distributed Runtime Design</sub></p>
+# DEVADATH S. // AI SYSTEMS ENGINEER
+
+<p align="center"><b>Engineering intelligent systems that can reason, retrieve, execute, verify, and operate.</b><br/><sub>AI Engineering • Agent Orchestration • Retrieval Systems • Cybersecurity • Distributed Runtime Design</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-2ea44f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Systems-Architecture-8250df?style=flat-square" />
+  <img src="https://img.shields.io/badge/Security-Automation-d1242f?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Building-0969da?style=flat-square" />
+</p>
 
 <p align="center"><a href="https://github.com/devadathdev">GitHub</a> • <a href="https://www.linkedin.com/in/devadath-s-091b55363">LinkedIn</a> • <a href="mailto:devadathdevan2008@gmail.com">Email</a></p>
 
@@ -178,3 +189,91 @@ RESEARCH          █████████████████░░░  
 ```
 
 <p align="center"><sub>Design systems. Build infrastructure. Make intelligence executable.</sub></p>
+---
+
+## `08` — GITHUB ACTIVITY
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadathdev&hide_border=true&theme=transparent" alt="GitHub streak"/>
+</p>
+
+## `09` — AUTONOMOUS SYSTEMS ROADMAP
+
+```text
+                    AUTONOMOUS SYSTEMS
+                           │
+          ┌────────────────┼────────────────┐
+          ▼                ▼                ▼
+     AGENT RUNTIME      MEMORY          MULTIMODAL
+          │                │                │
+          ▼                ▼                ▼
+       TOOL USE       RETRIEVAL         PERCEPTION
+          │                │                │
+          └────────────────┼────────────────┘
+                           ▼
+                    SAFE EXECUTION
+                           │
+                           ▼
+                    REAL-WORLD SYSTEMS
+```
+
+### Execution Stack
+
+| Layer | Responsibility |
+| :--- | :--- |
+| **Planner** | Break objectives into explicit executable steps |
+| **Tool Registry** | Discover and constrain available capabilities |
+| **Runtime** | Execute asynchronous tasks and external actions |
+| **Verification** | Validate outputs, policies, and execution state |
+| **Memory** | Persist useful state and retrieve relevant context |
+| **Observability** | Record events, latency, errors, and execution traces |
+| **Security Boundary** | Enforce isolation, permissions, and failure limits |
+
+## `10` — ENGINEERING LOOP
+
+```text
+DEFINE → ARCHITECT → IMPLEMENT → TEST → OBSERVE
+   ▲                                      │
+   └──────────── ITERATE ←──── MEASURE ───┘
+```
+
+I prefer **explicit contracts, small interfaces, observable execution, replaceable components, and measurable behavior** over tightly coupled abstractions.
+
+## `11` — BUILDING NEXT
+
+```text
+[ AGENT ORCHESTRATION ]
+    ├── Planner
+    ├── Tool Registry
+    ├── Execution Runtime
+    ├── Verification Layer
+    ├── Security Boundary
+    └── Persistent Memory
+
+[ MULTIMODAL INTERFACE ]
+    ├── Vision
+    ├── Voice
+    ├── Real-Time Telemetry
+    └── Spatial Interfaces
+
+[ INFRASTRUCTURE ]
+    ├── Local + Cloud Inference
+    ├── Sandboxed Execution
+    ├── Event-Driven Services
+    └── Hardware Gateway Interfaces
+```
+
+## `12` — ENGINEERING LOG
+
+Repositories → experiments → failures → measurements → systems.
+
+The objective is not to make AI **look** autonomous.
+
+**The objective is to engineer autonomy that can be controlled, inspected, measured, and trusted.**
+
+<p align="center"><b>DESIGN SYSTEMS. BUILD INFRASTRUCTURE. MAKE INTELLIGENCE EXECUTABLE.</b></p>

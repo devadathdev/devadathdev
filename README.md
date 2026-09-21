@@ -138,11 +138,33 @@ Latency, throughput, failure rate, retrieval quality, resource consumption, and 
 ## TECHNICAL STACK
 
 <p align="center">
-`Python` • `TypeScript` • `JavaScript` • `SQL` • `Bash`<br/>
-`FastAPI` • `Next.js` • `React` • `Tailwind CSS` • `WebSockets`<br/>
-`Docker` • `Linux` • `Git` • `GitHub Actions`<br/>
-`RAG` • `Embeddings` • `Vector Search` • `LLM APIs` • `Agentic Systems`
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,docker,linux,git,githubactions,bash,postgres&perline=6" alt="Languages, frameworks, infrastructure and developer tooling" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-Systems-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-Interfaces-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,tailwind,docker,linux,git,githubactions&perline=8" alt="Backend, frontend, infrastructure and CI/CD stack" />
+</p>
+
+### AI / Systems Layer
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-Retrieval-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20Search-Context%20Engineering-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Reranking-Precision-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/LLM%20APIs-Inference-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Agentic%20AI-Tool%20Execution-6E56CF?style=flat-square" />
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-6E56CF?style=flat-square" />
+</p>
+
+> **Stack philosophy:** use recognizable technologies at the implementation layer, and treat AI capabilities as composable system primitives.
 
 ## EXECUTION ARCHITECTURE
 

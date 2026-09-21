@@ -216,48 +216,41 @@ RESEARCH          █████████████████░░░  
 
 <p align="center"><sub>Design systems. Build infrastructure. Make intelligence executable.</sub></p>
 
-## `08` — SYSTEM TELEMETRY // GITHUB ACTIVITY
+## `08` — GITHUB // ENGINEERING TELEMETRY
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github"
-    height="180"
-    alt="GitHub system statistics"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9"
-    height="180"
-    alt="Repository language distribution"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github" height="180" alt="GitHub engineering statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9" height="180" alt="Repository language distribution" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=2EE6C5&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E"
-    alt="GitHub contribution telemetry"
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=FFB020&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub contribution streak" />
 </p>
 
-### Repository Telemetry
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadathdev&bg_color=0D1117&color=C9D1D9&line=2EE6C5&point=FFB020&area=true&hide_border=true&custom_title=DEVADATH%20S.%20%2F%2F%20ENGINEERING%20ACTIVITY" alt="GitHub engineering activity graph" />
+</p>
+
+### Runtime Signals
 
 ```text
-┌──────────────────────────────────────────────────────────────┐
-│                     GITHUB / TELEMETRY                       │
-├──────────────────────────────────────────────────────────────┤
-│                                                              │
-│  CODE        ████████████████████    ACTIVE                  │
-│  SYSTEMS     ███████████████████     ACTIVE                  │
-│  AI          ████████████████████    ACTIVE                  │
-│  SECURITY    █████████████████       ACTIVE                  │
-│  RESEARCH    ███████████████████     ACTIVE                  │
-│                                                              │
-│  MODE        BUILD / TEST / MEASURE / ITERATE                │
-│                                                              │
-└──────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────┐
+│ DEVADATH S. // ENGINEERING TELEMETRY                              │
+├────────────────────────────────────────────────────────────────────┤
+│                                                                    │
+│  SOURCE CONTROL     Git / GitHub                                   │
+│  PRIMARY MODE       BUILD → TEST → DEBUG → SHIP                    │
+│  SYSTEM FOCUS       AI / AGENTS / RETRIEVAL / SECURITY             │
+│  DEVELOPMENT        FULL-STACK + BACKEND + INFRASTRUCTURE          │
+│  ITERATION          CONTINUOUS EXPERIMENTATION                     │
+│                                                                    │
+│  SIGNALS            COMMITS • REPOSITORIES • LANGUAGES • STREAKS    │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
 <p align="center">
-  <sub>Repository activity reflects ongoing experiments, system development, and engineering iteration.</sub>
+  <sub>Live GitHub widgets provide measurable activity; the runtime panel describes the engineering workflow.</sub>
 </p>
 
 ## `09` — AUTONOMOUS SYSTEMS ROADMAP

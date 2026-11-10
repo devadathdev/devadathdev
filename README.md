@@ -1,322 +1,187 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=DEVADATH%20S.%20%2F%2F%20AI%20SYSTEMS&fontSize=42&fontColor=E6EDF3&fontAlignY=42&color=0B1017&stroke=2EE6C5&strokeWidth=2&animation=fadeIn&desc=AGENTIC%20AI%20%E2%80%A2%20LLM%20INFRASTRUCTURE%20%E2%80%A2%20AUTONOMOUS%20SYSTEMS&descSize=15&descColor=2EE6C5&descAlignY=63" alt="DEVADATH S. // AI SYSTEMS" />
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=DEVADATH%20S.%20%2F%2F%20AI%20SYSTEMS&fontSize=42&fontColor=E6EDF3&fontAlignY=42&color=0B1017&stroke=2EE6C5&strokeWidth=2&animation=fadeIn&desc=AGENTIC%20AI%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20ROBOTICS&descSize=15&descColor=2EE6C5&descAlignY=63" alt="DEVADATH S. // AI SYSTEMS" />
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=2EE6C5&center=true&vCenter=true&width=900&height=55&lines=DESIGNING+SYSTEMS+THAT+REASON+%E2%86%92+ACT+%E2%86%92+VERIFY;AGENTS+%2F%2F+TOOLS+%2F%2F+MEMORY+%2F%2F+RETRIEVAL;LLM+ENGINEERING+%2F%2F+AUTOMATION+%2F%2F+SECURITY;SOFTWARE+SYSTEMS+%2F%2F+EMBEDDED+%2F%2F+ROBOTICS" alt="Engineering focus" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-Agentic%20AI-2EE6C5?style=flat-square&labelColor=0B1017" />
+  <img src="https://img.shields.io/badge/BUILDING-LLM%20%26%20Agent%20Systems-8250df?style=flat-square&labelColor=0B1017" />
+  <img src="https://img.shields.io/badge/INTERESTS-Robotics%20%26%20Embedded-0969da?style=flat-square&labelColor=0B1017" />
+  <img src="https://img.shields.io/badge/STATUS-Independent%20Projects-FFB020?style=flat-square&labelColor=0B1017" />
+</p><p align="center">
+  <a href="https://github.com/devadathdev">GitHub</a> •
+  <a href="https://www.linkedin.com/in/devadath-s-091b55363">LinkedIn</a> •
+  <a href="mailto:devadathdevan2008@gmail.com">Email</a>
+</p>SYSTEM PROFILE
+I build software and AI systems across agent orchestration, LLM engineering, retrieval, cybersecurity, developer tooling, and embedded interfaces.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=2EE6C5&center=true&vCenter=true&width=900&height=55&lines=BUILDING+SYSTEMS+THAT+REASON+%E2%86%92+EXECUTE+%E2%86%92+VERIFY;AGENTS+%2F%2F+TOOLS+%2F%2F+MEMORY+%2F%2F+RETRIEVAL;SECURITY+%2F%2F+SANDBOXING+%2F%2F+VERIFICATION;AI+INFRASTRUCTURE+%2F%2F+REAL-TIME+AUTOMATION" alt="Technical systems focus" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Agentic%20AI-2ea44f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Systems-Architecture-8250df?style=flat-square" />
-  <img src="https://img.shields.io/badge/Security-Automation-d1242f?style=flat-square" />
-  <img src="https://img.shields.io/badge/Status-Building-0969da?style=flat-square" />
-</p>
-
-<p align="center"><a href="https://github.com/devadathdev">GitHub</a> • <a href="https://www.linkedin.com/in/devadath-s-091b55363">LinkedIn</a> • <a href="mailto:devadathdevan2008@gmail.com">Email</a></p>
-
----
-
-## SYSTEM PROFILE
-
-I design and build AI-native software systems with an emphasis on autonomy, reliability, security, observability, and execution.
-
-```text
+My work focuses on turning model capabilities into dependable software: explicit interfaces, constrained tool execution, observable workflows, verification, and security boundaries.
 ┌─────────────────────────────────────────────────────────────────────┐
-│                         DEVADATH / LAB                             │
+│                         DEVADATH / LAB                              │
 ├─────────────────────────────────────────────────────────────────────┤
-│ AGENTS       → planning • tool use • orchestration • memory       │
-│ INTELLIGENCE → RAG • embeddings • reranking • inference           │
-│ EXECUTION    → APIs • async runtimes • workers • automation       │
-│ SECURITY     → analysis • isolation • vulnerability workflows     │
-│ INFRA        → Linux • Docker • CI/CD • reproducible systems      │
-│ INTERFACES   → Next.js • React • TypeScript • real-time systems   │
+│ AI SYSTEMS   → LLM integration • agents • memory • retrieval       │
+│ EXECUTION    → tool use • orchestration • APIs • automation         │
+│ ENGINEERING  → Python • TypeScript • backend • full-stack           │
+│ SECURITY     → analysis • vulnerability workflows • isolation       │
+│ HARDWARE     → embedded systems • smartwatch OS • device interfaces │
+│ INFRA        → Linux • Git • Docker • CI/CD                          │
 └─────────────────────────────────────────────────────────────────────┘
-```
+Engineering principle: intelligence is useful only when its behavior can be controlled, inspected, tested, and verified.
 
-> Engineering principle: models generate intelligence; systems provide reliability.
+CURRENT PRIORITIES
+Project	Direction	Status
+THARA / THARA OS	Personal AI platform and smartwatch operating-system exploration	Active planning; hardware not yet acquired
+DEVA LLM	Model-training pipeline and experiments, starting with a small-scale model	Development / experimentation
+THE NINE	Coordinated multi-agent system within the Thara ecosystem	Architecture and implementation work
+CyberSec AI	AI-assisted security analysis and defensive workflows	Repository development
+FORGE	Developer tooling and engineering-workflow automation	Ongoing project
 
-## CORE ENGINEERING DOMAINS
 
-| Domain | Focus |
-| :--- | :--- |
-| **Agentic AI** | Tool calling, task orchestration, state management, multi-agent workflows |
-| **LLM Systems** | Inference integration, structured outputs, model routing, context management |
-| **Retrieval** | Semantic chunking, embeddings, vector search, reranking, context optimization |
-| **Backend Systems** | FastAPI, REST, WebSockets, asynchronous I/O, service architecture |
-| **Security Engineering** | Attack-surface analysis, vulnerability workflows, static analysis, security automation |
-| **Systems Engineering** | Linux, process isolation, execution runtimes, CLI architecture |
-| **Infrastructure** | Docker, Git, GitHub Actions, reproducible environments |
-| **Frontend Systems** | Next.js, React, TypeScript, Tailwind CSS, real-time interfaces |
+Project status is intentionally conservative: a concept, roadmap, or in-progress implementation is not presented as a shipped product.
+SELECTED PROJECTS
+◈ THARA — Personal AI Platform
+A personal AI companion concept focused on orchestration, memory, multimodal interaction, engineering workflows, and controlled autonomy.
 
-## SELECTED SYSTEMS
+Exploration areas: agent orchestration • model routing • persistent knowledge • voice and multimodal interfaces • sandboxed execution • verification
 
-### ◈ AURA — Agentic AI Infrastructure
-**[aura-assistant](https://github.com/devadathdev/aura-assistant)**
+Status: Active development direction. Features are being designed and implemented incrementally.
+◈ THARA OS — Smartwatch Operating System
+An embedded-device project exploring a purpose-built smartwatch software stack.
 
-AI assistant architecture focused on tool-driven execution, persistent state, real-time communication, and modular agent infrastructure.
+Initial direction: ESP-IDF-based firmware • device interface • display and input handling • power-aware architecture • connectivity and companion integration.
 
-**Architecture:** Dynamic tool execution • Persistent state • Async task processing • WebSockets • Real-time telemetry • Modular AI services
+Status: M0 planning. Development board not yet purchased and ESP-IDF setup is pending. The thara-os repository is planned; no repository link is listed until it exists.
+◈ DEVA LLM — Model Training
+Repository: tensorflow.ai
 
-**Stack:** `Python` `FastAPI` `WebSockets` `Agentic AI`
+Experiments toward a locally trainable language-model pipeline, with an initial small-model target and a longer-term scaling path.
 
-### ◈ SOUL AI — Stateful Cognitive Architecture
-**[soul-ai](https://github.com/devadathdev/soul-ai)**
+Focus: data preparation • tokenizer and model configuration • training orchestration • checkpointing • evaluation • reproducibility.
 
-State-aware dialogue architecture exploring structured memory, deterministic behavioral constraints, and multi-agent coordination.
+Status: Training subsystem development and experimentation. Larger model targets are roadmap goals, not completed training results.
+◈ THE NINE — Multi-Agent System
+A coordinated agent architecture intended to operate as part of the Thara platform.
 
-**Focus:** Memory retrieval • Stateful conversations • Behavioral constraints • Multi-agent coordination • LLM architecture
+Focus: role-based agents • task delegation • shared context • controlled tool access • verification • human approval boundaries.
 
-**Stack:** `Python` `LLM Systems` `State Management`
+Status: Architecture and implementation work. Not represented as a deployed autonomous service.
+◈ CYBERSEC AI — Security Intelligence
+Repository: cybersec-ai
 
-### ◈ RAG — Retrieval Intelligence Pipeline
-**[rag](https://github.com/devadathdev/rag)**
+AI-assisted security tooling oriented toward defensive analysis and structured security workflows.
 
-Retrieval pipeline designed to improve model reliability through better context construction.
+Focus: vulnerability analysis • CVE intelligence • security-log analysis • static analysis • remediation support.
+◈ AURA — Agentic Assistant
+Repository: aura-assistant
 
-```text
-Documents → Parsing → Semantic Chunking → Embeddings
-                                      ↓
-                              Vector Retrieval
-                                      ↓
-                              Cross-Encoder
-                                      ↓
-                              Context Assembly
-                                      ↓
-                                     LLM
-```
+An assistant project exploring modular AI services, tool-driven workflows, persistent state, and real-time interaction.
+◈ FORGE — Developer Infrastructure
+Repository: FORGE
 
-**Stack:** `Python` `Embeddings` `Vector Search` `Reranking`
+Developer tooling and workflow automation, with an emphasis on repeatable environments and practical engineering utilities.
+◈ CHATBOT — Model-Agnostic Dialogue Service
+Repository: chatbot
 
-### ◈ CYBERSEC AI — Security Intelligence
-**[cybersec-ai](https://github.com/devadathdev/cybersec-ai)**
+A conversational application exploring provider abstraction and structured interaction with language-model APIs.
+◈ DEVA / AI RESEARCH AND EXPERIMENTS
+Repository: tensorflow.ai
 
-AI-assisted security infrastructure for vulnerability analysis, security intelligence, attack-surface analysis, and remediation workflows.
+A broader space for machine-learning experiments and the development of reusable model-training infrastructure.
+◈ PORTFOLIO
+Repository: devadath-portfolio
 
-**Focus:** Vulnerability assessment • CVE intelligence • Security logs • Static analysis • Security automation
+Personal portfolio built with a modern web stack.
+CORE ENGINEERING DOMAINS
+Domain	Working areas
+Agentic AI	Tool calling, planning, orchestration, multi-agent workflows
+LLM Engineering	Model APIs, inference integration, training experiments, evaluation
+Retrieval Systems	Embeddings, semantic search, vector retrieval, reranking
+Backend Engineering	Python, FastAPI, REST APIs, WebSockets, asynchronous services
+Frontend Engineering	Next.js, React, TypeScript, Tailwind CSS
+Security Engineering	Defensive security analysis, vulnerability workflows, automation
+Embedded Systems	ESP-IDF and firmware exploration for connected devices
+Infrastructure	Linux, Git, Docker, CI/CD, reproducible development environments
 
-**Stack:** `Python` `SecOps` `Security Automation` `Static Analysis`
 
-### ◈ FORGE — Developer Infrastructure
-**[FORGE](https://github.com/devadathdev/FORGE)**
-
-Modular developer CLI and provisioning framework focused on isolated environments, dependency management, and reproducible workspace initialization.
-
-**Stack:** `Bash` `Docker` `Linux` `CLI Architecture`
-
-### ◈ CHATBOT — Model-Agnostic Dialogue Service
-**[chatbot](https://github.com/devadathdev/chatbot)**
-
-Schema-driven conversational backend designed to abstract model providers behind a consistent service interface.
-
-**Stack:** `Python` `REST APIs` `Schema Validation` `LLM APIs`
-
-### ◈ XENON — Async Execution Runtime
-**[xenon](https://github.com/devadathdev/xenon)**
-
-Lightweight execution engine exploring asynchronous task orchestration, high-throughput processing, and low-overhead runtime design.
-
-**Stack:** `Python` `AsyncIO` `Runtime Architecture`
-
-## ARCHITECTURE PHILOSOPHY
-
-**01 — Reliability over raw intelligence**  
-AI systems should be constrained by explicit interfaces, schemas, validation, observability, and failure boundaries.
-
-**02 — Intelligence must be executable**  
-Useful AI transforms intent into plans → tool calls → verified results → actions.
-
-**03 — Security is architectural**  
-Isolation, least privilege, validation, observability, and controlled execution belong inside the system.
-
-**04 — Modularity wins**  
-Models, tools, storage, retrieval engines, and interfaces should remain replaceable components.
-
-**05 — Measure before optimizing**  
-Latency, throughput, failure rate, retrieval quality, resource consumption, and execution reliability matter.
-
-## TECHNICAL STACK
-
+TECHNICAL STACK
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,docker,linux,git,githubactions,bash,postgres&perline=6" alt="Languages, frameworks, infrastructure and developer tooling" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,docker,linux,git,githubactions,bash,postgres&perline=6" alt="Languages, frameworks, infrastructure and developer tools" />
+</p><p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+</p>AI / systems concepts: LLM integration • RAG • embeddings • vector search • reranking • agent orchestration • tool execution • WebSockets • model evaluation
+Stack labels describe technologies and areas I work with or explore; they do not imply production-level experience in every listed component.
 
+EXECUTION ARCHITECTURE
+                         USER INTENT
+                              │
+                              ▼
+                     ┌────────────────┐
+                     │     PLANNER    │
+                     └───────┬────────┘
+                             ▼
+                     ┌────────────────┐
+                     │   TOOL ROUTER  │──────► Approved tools / APIs
+                     └───────┬────────┘
+                             ▼
+                     ┌────────────────┐
+                     │   EXECUTION    │──────► Workers / services
+                     └───────┬────────┘
+                             ▼
+                     ┌────────────────┐
+                     │  VERIFICATION  │──────► Tests / policy checks
+                     └───────┬────────┘
+                             ▼
+                     ┌────────────────┐
+                     │     MEMORY     │
+                     └───────┬────────┘
+                             ▼
+                      OBSERVABLE RESULT
+ENGINEERING PRINCIPLES
+1. Reliability over spectacle — define contracts, validate inputs, handle failures, and test behavior.
+2. Controlled autonomy — tools and agents operate within explicit permissions and boundaries.
+3. Security by design — isolation, least privilege, and safe defaults belong in the architecture.
+4. Modular systems — models, storage, tools, and interfaces should be replaceable.
+5. Measure before optimizing — evaluate latency, quality, resource use, and failure rates.
+6. Build incrementally — establish a working baseline before adding complexity.
+DEVELOPMENT LOOP
+DEFINE → DESIGN → IMPLEMENT → TEST → MEASURE
+   ▲                                  │
+   └──────────── ITERATE ←────────────┘
+I value explicit interfaces, small components, reproducible environments, useful documentation, and evidence from tests over claims based on plans.
+GITHUB // ENGINEERING TELEMETRY
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-Engineering-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-Systems-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-Interfaces-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=fastapi,nextjs,react,tailwind,docker,linux,git,githubactions&perline=8" alt="Backend, frontend, infrastructure and CI/CD stack" />
-</p>
-
-### AI / Systems Layer
-
-<p align="center">
-  <img src="https://img.shields.io/badge/RAG-Retrieval-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Vector%20Search-Context%20Engineering-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Reranking-Precision-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20APIs-Inference-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Agentic%20AI-Tool%20Execution-6E56CF?style=flat-square" />
-  <img src="https://img.shields.io/badge/WebSockets-Realtime-6E56CF?style=flat-square" />
-</p>
-
-> **Stack philosophy:** use recognizable technologies at the implementation layer, and treat AI capabilities as composable system primitives.
-
-## EXECUTION ARCHITECTURE
-
-```text
-USER INTENT
-     │
-     ▼
-┌──────────────┐
-│   PLANNER    │
-└──────┬───────┘
-       ▼
-┌──────────────┐       ┌──────────────────────┐
-│ TOOL ROUTER  │──────►│ INTERNAL / EXTERNAL  │
-└──────┬───────┘       │       TOOLS          │
-       ▼               └──────────────────────┘
-┌──────────────┐
-│  EXECUTION   │──────► Workers / APIs / Runtime
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│ VERIFICATION │──────► Validation / Security / Policy
-└──────┬───────┘
-       ▼
-┌──────────────┐
-│    MEMORY    │
-└──────┬───────┘
-       ▼
-  OBSERVABLE RESULT
-```
-
-## CURRENT DIRECTION
-
-Exploring autonomous agent architectures, AI tool-use and execution, long-term memory and retrieval, multimodal interfaces, local and hybrid inference, AI-assisted cybersecurity, developer automation, and event-driven systems.
-
-## BUILD STATUS
-
-```text
-AI SYSTEMS        ███████████████████░  ACTIVE
-AGENT RUNTIMES    █████████████████░░░  ACTIVE
-RETRIEVAL         ██████████████████░░  ACTIVE
-SECURITY          ████████████████░░░░  ACTIVE
-INFRASTRUCTURE    ███████████████░░░░░  ACTIVE
-RESEARCH          █████████████████░░░  ACTIVE
-```
-
-<p align="center"><sub>Design systems. Build infrastructure. Make intelligence executable.</sub></p>
-
-## `08` — GITHUB // ENGINEERING TELEMETRY
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub engineering statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&cache_seconds=86400" height="180" alt="Repository language distribution" />
-</p>
-
-<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&cache_seconds=86400" height="180" alt="Top languages" />
+</p><p align="center">
   <img src="https://streak-stats.demolab.com?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=FFB020&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub contribution streak" />
-</p>
+</p><p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadathdev&bg_color=0D1117&color=C9D1D9&line=2EE6C5&point=FFB020&area=true&hide_border=true&custom_title=DEVADATH%20S.%20%2F%2F%20ENGINEERING%20ACTIVITY" alt="GitHub activity graph" />
+</p>BUILDING NEXT
+[ THARA ECOSYSTEM ]
+    ├── Personal AI companion
+    ├── Agent orchestration
+    ├── Persistent knowledge and memory
+    └── Controlled tool execution
 
+[ THARA OS ]
+    ├── ESP-IDF firmware foundation
+    ├── Display and input pipeline
+    ├── Power and connectivity management
+    └── Companion-device integration
+
+[ DEVA LLM ]
+    ├── Data and tokenizer pipeline
+    ├── Small-scale training experiments
+    ├── Checkpointing and evaluation
+    └── Reproducible training workflow
+
+[ SECURITY + DEVELOPER SYSTEMS ]
+    ├── CyberSec AI
+    ├── FORGE tooling
+    └── Automated testing and verification
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadathdev&bg_color=0D1117&color=C9D1D9&line=2EE6C5&point=FFB020&area=true&hide_border=true&custom_title=DEVADATH%20S.%20%2F%2F%20ENGINEERING%20ACTIVITY" alt="GitHub engineering activity graph" />
+  <b>DESIGN SYSTEMS. BUILD INFRASTRUCTURE. MAKE INTELLIGENCE EXECUTABLE.</b>
 </p>
-
-### Runtime Signals
-
-```text
-┌────────────────────────────────────────────────────────────────────┐
-│ DEVADATH S. // ENGINEERING TELEMETRY                              │
-├────────────────────────────────────────────────────────────────────┤
-│  SOURCE CONTROL     Git / GitHub                                   │
-│  PRIMARY MODE       BUILD → TEST → DEBUG → SHIP                    │
-│  SYSTEM FOCUS       AI / AGENTS / RETRIEVAL / SECURITY             │
-│  DEVELOPMENT        FULL-STACK + BACKEND + INFRASTRUCTURE          │
-│  ITERATION          CONTINUOUS EXPERIMENTATION                     │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-<p align="center">
-  <sub>Live GitHub widgets provide measurable activity; the runtime panel describes the engineering workflow.</sub>
-</p>
-
-## `09` — AUTONOMOUS SYSTEMS ROADMAP
-
-```text
-                    AUTONOMOUS SYSTEMS
-                           │
-          ┌────────────────┼────────────────┐
-          ▼                ▼                ▼
-     AGENT RUNTIME      MEMORY          MULTIMODAL
-          │                │                │
-          ▼                ▼                ▼
-       TOOL USE       RETRIEVAL         PERCEPTION
-          │                │                │
-          └────────────────┼────────────────┘
-                           ▼
-                    SAFE EXECUTION
-                           │
-                           ▼
-                    REAL-WORLD SYSTEMS
-```
-
-### Execution Stack
-
-| Layer | Responsibility |
-| :--- | :--- |
-| **Planner** | Break objectives into explicit executable steps |
-| **Tool Registry** | Discover and constrain available capabilities |
-| **Runtime** | Execute asynchronous tasks and external actions |
-| **Verification** | Validate outputs, policies, and execution state |
-| **Memory** | Persist useful state and retrieve relevant context |
-| **Observability** | Record events, latency, errors, and execution traces |
-| **Security Boundary** | Enforce isolation, permissions, and failure limits |
-
-## `10` — ENGINEERING LOOP
-
-```text
-DEFINE → ARCHITECT → IMPLEMENT → TEST → OBSERVE
-   ▲                                      │
-   └──────────── ITERATE ←──── MEASURE ───┘
-```
-
-I prefer **explicit contracts, small interfaces, observable execution, replaceable components, and measurable behavior** over tightly coupled abstractions.
-
-## `11` — BUILDING NEXT
-
-```text
-[ AGENT ORCHESTRATION ]
-    ├── Planner
-    ├── Tool Registry
-    ├── Execution Runtime
-    ├── Verification Layer
-    ├── Security Boundary
-    └── Persistent Memory
-
-[ MULTIMODAL INTERFACE ]
-    ├── Vision
-    ├── Voice
-    ├── Real-Time Telemetry
-    └── Spatial Interfaces
-
-[ INFRASTRUCTURE ]
-    ├── Local + Cloud Inference
-    ├── Sandboxed Execution
-    ├── Event-Driven Services
-    └── Hardware Gateway Interfaces
-```
-
-## `12` — ENGINEERING LOG
-
-Repositories → experiments → failures → measurements → systems.
-
-The objective is not to make AI **look** autonomous.
-
-**The objective is to engineer autonomy that can be controlled, inspected, measured, and trusted.**
-
-<p align="center"><b>DESIGN SYSTEMS. BUILD INFRASTRUCTURE. MAKE INTELLIGENCE EXECUTABLE.</b></p>

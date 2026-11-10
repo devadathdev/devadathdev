@@ -1,187 +1,214 @@
+<!--
+  Profile README for github.com/devadathdev
+  Keep project states honest: planned, experimental, implemented, and verified are different claims.
+-->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=DEVADATH%20S.%20%2F%2F%20AI%20SYSTEMS&fontSize=42&fontColor=E6EDF3&fontAlignY=42&color=0B1017&stroke=2EE6C5&strokeWidth=2&animation=fadeIn&desc=AGENTIC%20AI%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20ROBOTICS&descSize=15&descColor=2EE6C5&descAlignY=63" alt="DEVADATH S. // AI SYSTEMS" />
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2200&pause=700&color=2EE6C5&center=true&vCenter=true&width=900&height=55&lines=DESIGNING+SYSTEMS+THAT+REASON+%E2%86%92+ACT+%E2%86%92+VERIFY;AGENTS+%2F%2F+TOOLS+%2F%2F+MEMORY+%2F%2F+RETRIEVAL;LLM+ENGINEERING+%2F%2F+AUTOMATION+%2F%2F+SECURITY;SOFTWARE+SYSTEMS+%2F%2F+EMBEDDED+%2F%2F+ROBOTICS" alt="Engineering focus" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-Agentic%20AI-2EE6C5?style=flat-square&labelColor=0B1017" />
-  <img src="https://img.shields.io/badge/BUILDING-LLM%20%26%20Agent%20Systems-8250df?style=flat-square&labelColor=0B1017" />
-  <img src="https://img.shields.io/badge/INTERESTS-Robotics%20%26%20Embedded-0969da?style=flat-square&labelColor=0B1017" />
-  <img src="https://img.shields.io/badge/STATUS-Independent%20Projects-FFB020?style=flat-square&labelColor=0B1017" />
-</p><p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=220&text=DEVADATH%20S.%20%2F%2F%20ENGINEERING&fontSize=40&fontColor=E6EDF3&fontAlignY=40&color=0B1017&stroke=2EE6C5&strokeWidth=2&animation=fadeIn&desc=AI%20SYSTEMS%20%E2%80%A2%20SOFTWARE%20ENGINEERING%20%E2%80%A2%20EMBEDDED%20SYSTEMS&descSize=14&descColor=2EE6C5&descAlignY=64" alt="Devadath S. — Engineering" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=14&duration=2400&pause=700&color=2EE6C5&center=true&vCenter=true&width=850&height=50&lines=LEARN+%E2%86%92+DESIGN+%E2%86%92+BUILD+%E2%86%92+VERIFY;AI+AGENTS+%2F%2F+LLM+APPLICATIONS+%2F%2F+RETRIEVAL;SOFTWARE+%2F%2F+SECURITY+%2F%2F+EMBEDDED+SYSTEMS" alt="Engineering interests" />
+</p>
+
+<p align="center">
   <a href="https://github.com/devadathdev">GitHub</a> •
   <a href="https://www.linkedin.com/in/devadath-s-091b55363">LinkedIn</a> •
   <a href="mailto:devadathdevan2008@gmail.com">Email</a>
-</p>SYSTEM PROFILE
-I build software and AI systems across agent orchestration, LLM engineering, retrieval, cybersecurity, developer tooling, and embedded interfaces.
+</p>
 
-My work focuses on turning model capabilities into dependable software: explicit interfaces, constrained tool execution, observable workflows, verification, and security boundaries.
-┌─────────────────────────────────────────────────────────────────────┐
-│                         DEVADATH / LAB                              │
-├─────────────────────────────────────────────────────────────────────┤
-│ AI SYSTEMS   → LLM integration • agents • memory • retrieval       │
-│ EXECUTION    → tool use • orchestration • APIs • automation         │
-│ ENGINEERING  → Python • TypeScript • backend • full-stack           │
-│ SECURITY     → analysis • vulnerability workflows • isolation       │
-│ HARDWARE     → embedded systems • smartwatch OS • device interfaces │
-│ INFRA        → Linux • Git • Docker • CI/CD                          │
-└─────────────────────────────────────────────────────────────────────┘
-Engineering principle: intelligence is useful only when its behavior can be controlled, inspected, tested, and verified.
+---
 
-CURRENT PRIORITIES
-Project	Direction	Status
-THARA / THARA OS	Personal AI platform and smartwatch operating-system exploration	Active planning; hardware not yet acquired
-DEVA LLM	Model-training pipeline and experiments, starting with a small-scale model	Development / experimentation
-THE NINE	Coordinated multi-agent system within the Thara ecosystem	Architecture and implementation work
-CyberSec AI	AI-assisted security analysis and defensive workflows	Repository development
-FORGE	Developer tooling and engineering-workflow automation	Ongoing project
+## PROFILE
 
+I am a computer science student building and studying software systems, AI applications, and engineering tools. My current interests include agent orchestration, language-model applications, retrieval, defensive security, full-stack development, and embedded systems.
 
-Project status is intentionally conservative: a concept, roadmap, or in-progress implementation is not presented as a shipped product.
-SELECTED PROJECTS
-◈ THARA — Personal AI Platform
-A personal AI companion concept focused on orchestration, memory, multimodal interaction, engineering workflows, and controlled autonomy.
+I prefer practical engineering over inflated claims: define the problem, build a working baseline, test the behavior, and be explicit about what remains incomplete.
 
-Exploration areas: agent orchestration • model routing • persistent knowledge • voice and multimodal interfaces • sandboxed execution • verification
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                            DEVADATH / LAB                             │
+├──────────────────────────────────────────────────────────────────────┤
+│ AI             → LLM applications • agents • retrieval               │
+│ SOFTWARE       → Python • TypeScript • APIs • web applications        │
+│ SECURITY       → defensive analysis • security tooling                │
+│ EMBEDDED       → firmware learning • connected-device concepts        │
+│ ENGINEERING    → Linux • Git • testing • development workflows        │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
-Status: Active development direction. Features are being designed and implemented incrementally.
-◈ THARA OS — Smartwatch Operating System
-An embedded-device project exploring a purpose-built smartwatch software stack.
+> **Working principle:** build what can be tested; label plans as plans.
 
-Initial direction: ESP-IDF-based firmware • device interface • display and input handling • power-aware architecture • connectivity and companion integration.
+## FEATURED WORK
 
-Status: M0 planning. Development board not yet purchased and ESP-IDF setup is pending. The thara-os repository is planned; no repository link is listed until it exists.
-◈ DEVA LLM — Model Training
-Repository: tensorflow.ai
+### THARA — Personal AI Command Center
 
-Experiments toward a locally trainable language-model pipeline, with an initial small-model target and a longer-term scaling path.
+[Repository](https://github.com/devadathdev/Thara-ai)
 
-Focus: data preparation • tokenizer and model configuration • training orchestration • checkpointing • evaluation • reproducibility.
+A personal AI companion project centered on voice-first interaction, context, memory, model routing, engineering workflows, defensive security, and controlled actions.
 
-Status: Training subsystem development and experimentation. Larger model targets are roadmap goals, not completed training results.
-◈ THE NINE — Multi-Agent System
-A coordinated agent architecture intended to operate as part of the Thara platform.
+The repository documents a hardware-gateway foundation with a simulation-first safety boundary. Physical device execution is not enabled until a real authenticated protocol adapter and required local safety checks are installed and verified.
 
-Focus: role-based agents • task delegation • shared context • controlled tool access • verification • human approval boundaries.
+**Project areas:** assistant interface • model integration • orchestration • memory • permission controls • hardware gateway foundation.
 
-Status: Architecture and implementation work. Not represented as a deployed autonomous service.
-◈ CYBERSEC AI — Security Intelligence
-Repository: cybersec-ai
+### AURA V2 — Unified Intelligence Platform
 
-AI-assisted security tooling oriented toward defensive analysis and structured security workflows.
+[Repository](https://github.com/devadathdev/AURA-V2)
 
-Focus: vulnerability analysis • CVE intelligence • security-log analysis • static analysis • remediation support.
-◈ AURA — Agentic Assistant
-Repository: aura-assistant
+A central orchestration platform designed to coordinate specialist systems such as FORGE, SENTINEL, RESEARCH, and AUTOMATION/OPS. Its documented architecture separates model intelligence from execution authority through governance and a tool broker.
 
-An assistant project exploring modular AI services, tool-driven workflows, persistent state, and real-time interaction.
-◈ FORGE — Developer Infrastructure
-Repository: FORGE
+The repository also documents Mission Control workflows and a Holographic Workshop for engineering and spatial-simulation interactions. Descriptions here reflect repository documentation; they should not be read as independent validation of every advertised capability.
 
-Developer tooling and workflow automation, with an emphasis on repeatable environments and practical engineering utilities.
-◈ CHATBOT — Model-Agnostic Dialogue Service
-Repository: chatbot
+**Project areas:** agent coordination • mission lifecycle • governance • approval workflows • security verification • engineering workspace.
 
-A conversational application exploring provider abstraction and structured interaction with language-model APIs.
-◈ DEVA / AI RESEARCH AND EXPERIMENTS
-Repository: tensorflow.ai
+### DEVA / TensorVision AI — Machine-Learning Platform
 
-A broader space for machine-learning experiments and the development of reusable model-training infrastructure.
-◈ PORTFOLIO
-Repository: devadath-portfolio
+[Repository](https://github.com/devadathdev/tensorflow.ai)
 
-Personal portfolio built with a modern web stack.
-CORE ENGINEERING DOMAINS
-Domain	Working areas
-Agentic AI	Tool calling, planning, orchestration, multi-agent workflows
-LLM Engineering	Model APIs, inference integration, training experiments, evaluation
-Retrieval Systems	Embeddings, semantic search, vector retrieval, reranking
-Backend Engineering	Python, FastAPI, REST APIs, WebSockets, asynchronous services
-Frontend Engineering	Next.js, React, TypeScript, Tailwind CSS
-Security Engineering	Defensive security analysis, vulnerability workflows, automation
-Embedded Systems	ESP-IDF and firmware exploration for connected devices
-Infrastructure	Linux, Git, Docker, CI/CD, reproducible development environments
+The repository currently describes an end-to-end TensorFlow/Keras computer-vision platform covering image classification, transfer learning, segmentation, OCR, inference, and model export.
 
+Separately, I am exploring language-model training infrastructure. That is a development direction, not a claim that this repository has already trained a large language model.
 
-TECHNICAL STACK
+**Project areas:** computer vision • TensorFlow/Keras • model training workflows • evaluation • reproducibility.
+
+### SENTINEL — Personal Digital Security AI
+
+[Repository](https://github.com/devadathdev/SENTINEL)
+
+A security platform whose README describes phishing analysis, breach monitoring, threat-intelligence enrichment, and response workflows.
+
+**Project areas:** defensive security • analysis pipelines • security APIs • auditability.
+
+### CYBERSEC AI — Security Engineering
+
+Private repository: `cybersec-ai` (not linked publicly).
+
+An AI-assisted defensive-security project. Its repository is private, so implementation details are intentionally not exposed in this public profile.
+
+### FORGE — Engineering Agent
+
+Private repository: `FORGE` (not linked publicly).
+
+A specialist engineering system associated with the AURA ecosystem. The AURA V2 documentation describes FORGE workflows for software architecture, implementation, testing, code review, and Git operations.
+
+### XENON — Agent Platform
+
+[Repository](https://github.com/devadathdev/xenon)
+
+A project whose repository describes an autonomous full-stack AI agent platform with research, code-generation, and data-analysis workflows. Check its README for current setup requirements and limitations.
+
+### Additional repositories
+
+- [AURA Assistant](https://github.com/devadathdev/aura-assistant) — assistant and orchestration project.
+- [Soul AI](https://github.com/devadathdev/soul-ai) — voice-enabled assistant experiment.
+- [RAG Agent](https://github.com/devadathdev/rag) — document and URL ingestion with retrieval-augmented question answering.
+- [Chatbot](https://github.com/devadathdev/chatbot) — conversational application based on the AI SDK ecosystem.
+- [Crazybot](https://github.com/devadathdev/Carzybot) — local-first multi-agent personal AI workspace.
+- [Native Skills](https://github.com/devadathdev/Native-skills) — portable skills runtime for assistant and developer workflows.
+- [AD CARBONS](https://github.com/devadathdev/AD-CARBONS) — landing-page project for a carbon-nanotube business concept.
+- [Portfolio project](https://github.com/devadathdev/MY-PORTFOLIO-) • [Portfolio project 2](https://github.com/devadathdev/Dev-Portfolio-).
+
+## CURRENT EXPLORATIONS
+
+| Area | What I am exploring | Status |
+| :--- | :--- | :--- |
+| THARA OS | Smartwatch software and embedded firmware using ESP-IDF | Early planning; board not purchased and ESP-IDF setup pending |
+| DEVA LLM | Small-scale language-model training pipeline | Research / development; no large-model training result claimed |
+| THE NINE | Coordinated multi-agent system for the Thara ecosystem | Architecture / implementation work; not presented as deployed |
+| Robotics | Engineering interfaces and hardware integration | Learning / exploration |
+
+## TECHNOLOGIES
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nextjs,tailwind,docker,linux,git,githubactions,bash,postgres&perline=6" alt="Languages, frameworks, infrastructure and developer tools" />
-</p><p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
-</p>AI / systems concepts: LLM integration • RAG • embeddings • vector search • reranking • agent orchestration • tool execution • WebSockets • model evaluation
-Stack labels describe technologies and areas I work with or explore; they do not imply production-level experience in every listed component.
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,tailwind,fastapi,docker,linux,git,githubactions,bash&perline=6" alt="Programming languages, frameworks, and tools" />
+</p>
 
-EXECUTION ARCHITECTURE
-                         USER INTENT
-                              │
-                              ▼
-                     ┌────────────────┐
-                     │     PLANNER    │
-                     └───────┬────────┘
-                             ▼
-                     ┌────────────────┐
-                     │   TOOL ROUTER  │──────► Approved tools / APIs
-                     └───────┬────────┘
-                             ▼
-                     ┌────────────────┐
-                     │   EXECUTION    │──────► Workers / services
-                     └───────┬────────┘
-                             ▼
-                     ┌────────────────┐
-                     │  VERIFICATION  │──────► Tests / policy checks
-                     └───────┬────────┘
-                             ▼
-                     ┌────────────────┐
-                     │     MEMORY     │
-                     └───────┬────────┘
-                             ▼
-                      OBSERVABLE RESULT
-ENGINEERING PRINCIPLES
-1. Reliability over spectacle — define contracts, validate inputs, handle failures, and test behavior.
-2. Controlled autonomy — tools and agents operate within explicit permissions and boundaries.
-3. Security by design — isolation, least privilege, and safe defaults belong in the architecture.
-4. Modular systems — models, storage, tools, and interfaces should be replaceable.
-5. Measure before optimizing — evaluate latency, quality, resource use, and failure rates.
-6. Build incrementally — establish a working baseline before adding complexity.
-DEVELOPMENT LOOP
-DEFINE → DESIGN → IMPLEMENT → TEST → MEASURE
-   ▲                                  │
-   └──────────── ITERATE ←────────────┘
-I value explicit interfaces, small components, reproducible environments, useful documentation, and evidence from tests over claims based on plans.
-GITHUB // ENGINEERING TELEMETRY
+| Area | Technologies and concepts |
+| :--- | :--- |
+| Programming | Python, JavaScript, TypeScript |
+| AI applications | LLM APIs, agent workflows, model routing |
+| Retrieval | Embeddings, semantic search, RAG |
+| Backend | REST APIs, FastAPI, asynchronous Python, WebSockets |
+| Frontend | React, Next.js, Tailwind CSS |
+| Security | Defensive security concepts and automation |
+| Tooling | Git, GitHub, Linux, Bash, Docker |
+| Embedded | ESP-IDF and firmware development exploration |
+
+*This list describes tools and areas I use, study, or explore. It is not a claim of equal proficiency across every technology.*
+
+## ENGINEERING PRINCIPLES
+
+1. **Build a working baseline** before adding complex abstractions.
+2. **Make behavior observable** through tests, logs, and measurable outcomes.
+3. **Constrain automation** with explicit permissions and approval boundaries.
+4. **Design for failure** with validation, error handling, and recovery paths.
+5. **Keep components replaceable** across models, tools, storage, and interfaces.
+6. **Report status accurately**: implemented, tested, experimental, and planned are not interchangeable.
+
+## A SIMPLE AGENT WORKFLOW
+
+```text
+USER REQUEST
+    |
+    v
+PLANNING
+    |
+    v
+CAPABILITY / TOOL SELECTION
+    |
+    v
+CONTROLLED EXECUTION
+    |
+    v
+VALIDATION AND VERIFICATION
+    |
+    v
+RESULT + AUDIT TRACE
+```
+
+This is an architectural pattern I use when thinking about agent systems; it does not imply that every project implements every stage.
+
+## GITHUB ACTIVITY
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&rank_icon=github&cache_seconds=86400" height="180" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&cache_seconds=86400" height="180" alt="Top languages" />
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=FFB020&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="180" alt="GitHub contribution streak" />
-</p><p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devadathdev&bg_color=0D1117&color=C9D1D9&line=2EE6C5&point=FFB020&area=true&hide_border=true&custom_title=DEVADATH%20S.%20%2F%2F%20ENGINEERING%20ACTIVITY" alt="GitHub activity graph" />
-</p>BUILDING NEXT
-[ THARA ECOSYSTEM ]
-    ├── Personal AI companion
-    ├── Agent orchestration
-    ├── Persistent knowledge and memory
-    └── Controlled tool execution
+  <img src="https://github-readme-stats.vercel.app/api?username=devadathdev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&icon_color=2EE6C5&cache_seconds=86400" height="165" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devadathdev&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=2EE6C5&text_color=C9D1D9&cache_seconds=86400" height="165" alt="Most-used repository languages" />
+</p>
 
-[ THARA OS ]
-    ├── ESP-IDF firmware foundation
-    ├── Display and input pipeline
-    ├── Power and connectivity management
-    └── Companion-device integration
-
-[ DEVA LLM ]
-    ├── Data and tokenizer pipeline
-    ├── Small-scale training experiments
-    ├── Checkpointing and evaluation
-    └── Reproducible training workflow
-
-[ SECURITY + DEVELOPER SYSTEMS ]
-    ├── CyberSec AI
-    ├── FORGE tooling
-    └── Automated testing and verification
 <p align="center">
-  <b>DESIGN SYSTEMS. BUILD INFRASTRUCTURE. MAKE INTELLIGENCE EXECUTABLE.</b>
+  <img src="https://streak-stats.demolab.com?user=devadathdev&hide_border=true&background=0D1117&ring=2EE6C5&fire=FFB020&currStreakLabel=2EE6C5&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" height="165" alt="GitHub contribution streak" />
+</p>
+
+<sub>Statistics and streak cards are provided by third-party services and may be unavailable or delayed. The language card reflects GitHub's repository-language calculation, not a proficiency ranking.</sub>
+
+## BUILDING TOWARD
+
+```text
+THARA ECOSYSTEM
+ ├── Personal AI companion
+ ├── Model and tool integration
+ ├── Memory and retrieval
+ └── Controlled automation
+
+THARA OS
+ ├── Firmware foundation
+ ├── Display and input
+ ├── Connectivity and power management
+ └── Companion-device integration
+
+DEVA LLM
+ ├── Data and tokenizer pipeline
+ ├── Small-scale training experiments
+ ├── Checkpointing and evaluation
+ └── Reproducible workflows
+
+ENGINEERING SYSTEMS
+ ├── AURA orchestration
+ ├── FORGE engineering workflows
+ ├── SENTINEL security workflows
+ └── Testing and verification
+```
+
+<p align="center">
+  <b>LEARN DEEPLY. BUILD INCREMENTALLY. VERIFY EVERYTHING.</b>
 </p>
